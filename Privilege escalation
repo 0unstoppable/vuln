@@ -15,7 +15,7 @@ Vertical privilege escalation is a technique to gain higher privileges.
  To make it clear think of the same university application in which there are two users one is faculty and the second one is student.
 So, if a student can escalate his privilege to gain the privilege of the faculty then he can access all the functionality like viewing the student data, altering and adding new data in to the system.
 
-
+https://github.com/0unstoppable/vuln/issues/1#issue-842488212
 Linux Privilege Escalation techniques
 
 To find the kernel version
